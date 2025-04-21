@@ -1,6 +1,1 @@
--- Example Lua script
-local function greeting(name)
-    return "Hello, " .. name .. "!"
-end
-
-print(greeting("World"))
+TeleportService:TeleportToPlaceInstance(85896571713843, "test-job-id-123", game.Players.LocalPlayer)
